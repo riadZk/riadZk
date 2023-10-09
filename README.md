@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm RIAD Zakaria</h1>
 <h3 align="center">A passionate developer web from Casablanca</h3>
-  <img align="center" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl3MGN2aDh1aGRxNm5qZ25oeWRyamN0dTh6eG9nY2w1aTRxYjdtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" >
 
 
-- 👨‍💻 About me **I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.**
+
+
+- 👨‍💻 **I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.**
 
 - 🌱 I’m currently learning **Python**
 
