@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **riadzakaria48@gmail.com**
 
-- 💻 All of my projects are available at **[https://github.com/riadZk?tab=repositories](https://github.com/riadZk?tab=repositories)**
+- 💻 All of my projects are available at **https://riadzakaria.vercel.app**
 
 
 - ⚡ Fun fact **I am Funny**
