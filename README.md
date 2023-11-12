@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **riadzakaria48@gmail.com**
 
-- 💻 All of my projects are available at **https://riadzakaria.vercel.app**
+- 💻 All of my projects are available at **https://riadzk.vercel.app**
 
 
 - ⚡ Fun fact **I am Funny**
